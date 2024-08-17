@@ -1,6 +1,6 @@
 # Shell-Implementation
 
-## To run the shell type in the following commands
+## To run the shell, type in the following commands
 
 1. `make`
 2. `./shell`
